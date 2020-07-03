@@ -110,6 +110,13 @@ ENV/
 env.bak/
 venv.bak/
 
+# IDE stuff:
+.vscode
+.idea
+
+# Docker stuff:
+.dockerignore
+
 # Spyder project settings
 .spyderproject
 .spyproject
